@@ -18,3 +18,6 @@ les clients et les chambres d'un hôtel grâce à une base de données relationn
 ## 💻 Développé par :
 Khaoula AIT ATTA                                                                                                                                                                           
 Assia MEZAROU
+## 🎬 Démo du projet
+
+👉 [Cliquez ici pour voir la démo du projet](https://drive.google.com/file/d/1-vIJpZ-jOfMXDqijfMPgDtkDsEnRotUL/view?usp=sharing)
